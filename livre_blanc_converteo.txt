@@ -1,0 +1,168 @@
+BAROMÈTRE COMMERCE AGENTIQUE : PANORAMA DES AGENTS IA DANS LE E-COMMERCE FRANÇAIS
+Publié par Converteo (2026)
+
+ÉDITO & INTRODUCTION (Thibauld Vian Deguille, Principal Digital, Data & IA chez Converteo)
+Sans surprise, le marché de l'agentique commerce connaît une forte croissance en France comme à l'international et de plus en plus de sites e-commerce proposent aujourd'hui des agents IA d'aide à l'achat, avec des leaders qui en sont parfois à leur deuxième version (Rufus, déjà enrichi début 2026, devient Alexa+, et Hopla de Carrefour est devenu Hopla+).
+La photo 2026, réalisée dans cette étude, montre un taux de pénétration des agents IA shopping de 25% sur les principaux sites e-commerce de France ; nous parions qu'il dépassera les 35% dans la mise à jour 2027.
+Pour les acteurs e-commerce, c'est une manière à la fois d'accompagner les nouveaux usages conversationnels (ChatGPT, Gemini...) tout en levant un des freins historiques du canal digital : l'absence d'accompagnement client.
+L'agent IA shopping devient l'incarnation digitale du vendeur en boutique : un expert qui prodigue des conseils personnalisés, lève les interrogations et rassure sur les points de friction potentiels.
+Après une décennie de promesses non tenues par les chatbots, la technologie devient enfin suffisamment puissante pour proposer des expériences d'aide à la vente crédibles, voire déjà impressionnantes pour les acteurs les plus matures : Amazon, Zalando, L'Oréal, Sephora...
+Pour autant, au-delà des annonces et de quelques cas très visibles, le marché reste jeune et de nombreux cas d'usage restent encore à démocratiser : comparaison des produits entre eux, accompagnement au panier, virtual try-on, délégation d'achat, personnalisation des réponses en fonction de l'historique client, monétisation retail media des réponses de l'agent... Nous ne sommes qu'au tout début de l'histoire des agents IA shopping.
+Enfin, même si l'appétence utilisateur et l'adoption semblent réelles, chaque conversation avec un agent IA représente un coût pour les acteurs eCommerce, parfois même assez élevé pour les cas d'usage multimodaux (virtual try-on, skin diagnostic...). La pérennité de ces agents reposera donc sur une question qui reste à trancher au cas par cas : à quelle hauteur l'incrément de valeur d'une conversation avec l'agent (panier moyen, taux de conversion, retail media) dépasse-t-il les coûts associés ?
+Avant même de dresser un état des lieux du marché français, notre priorité aura été de recentrer le débat sur le commerce augmenté par IA : ses avancées, ses enjeux et ses véritables défis technologiques. Loin d'un très médiatisé Rufus d'Amazon, où en sont réellement les e-commerçants français ?
+Nous avons audité plus de 170 acteurs du e-commerce français à l'aide d'une grille d'évaluation sur-mesure portée par quatre axes : l'accessibilité et visibilité de ces agents, l'expérience client et leur capacité transactionnelle, leur connectivité aux données métiers et la sophistication de leur moteur LLM. Le résultat : un état des lieux concret, objectif et sans filtre de cette révolution en marche.
+
+---
+PARTIE 1 : L'E-COMMERCE CONVERSATIONNEL : ÉTAT DES LIEUX, ENJEUX ET MATURITÉ
+
+1. Volumes en hausse, paniers en baisse : les deux visages de l'e-commerce en 2026
+- 196,4 Mds € de chiffre d'affaires global en France en 2025 (+7% de croissance vs n-1, FEVAD 2025).
+- 3,2 Mds de commandes passées en France en 2025, soit 100 commandes traitées à la seconde.
+- Le secteur affiche une croissance ininterrompue sur les dix dernières années, triplant de volume entre 2016 et 2026, porté par une fréquence d'achat frénétique.
+- Paradoxe : ces chiffres masquent une réalité contrastée. Les Français achètent plus souvent, mais le panier moyen baisse inexorablement. Dans une conjoncture économique tendue, la mode est au low cost, permettant aux rois du discount de s'ancrer en tête. Temu décroche en 2026 la 2e place du podium (après avoir gravi 14 places en 2024), talonnant Amazon toujours leader (ECDB Top 100 2025).
+
+2. Top 100 des e-commerçants en France : anatomie du marché
+- Top 10 : #1 Amazon, #2 Temu, #3 Shein, #4 AliExpress, #5 Vinted, #6 Cdiscount, #7 Zalando, #8 Fnac, #9 Sephora, #10 Leroy Merlin.
+- Suivants notables : Decathlon (#11), Ikea (#12), ManoMano (#13), Castorama (#14), Boulanger (#15), Darty (#16), Back Market (#17), Apple (#18), Samsung (#19), Carrefour (#20), E.Leclerc (#21), Auchan (#22), La Redoute (#23), Veepee (#24), Maisons du Monde (#26), Zara (#33), H&M (#34), Aroma-Zone (#44), LDLC (#45), Nature & Découvertes (#87)...
+
+3. Le choc des modèles : quatre enseignements pour décrypter l'e-commerce français
+- L'e-commerce local tient bon : Loin d'un marché national vampirisé par les géants étrangers, 60 des marques représentées dans le top 100 sont françaises.
+- Hégémonie historique de la Mode et de la Tech : À eux seuls, ces deux secteurs trustent près de la moitié du classement (27 acteurs pour la mode, 16 pour la high-tech).
+- L'ultra low cost asiatique au sommet : Percée historique pour Temu lancé en avril 2023, 2e place en seulement trois ans.
+- Amazon rafle la mise : Rien ne déloge le géant américain de sa première place, leader incontesté de 7 des verticales les plus porteuses.
+
+4. L'avènement des agents conversationnels expliqué en six points
+Point 1 : Accompagner les nouveaux usages. La bascule entre moteurs de recherche traditionnels et LLM semble déjà actée : 58% des consommateurs déclarent avoir déjà remplacé les moteurs de recherche traditionnels par des outils d'IA (Capgemini 2026). 31% des cyberacheteurs français (et 49% des 15-24 ans) utilisent déjà l'IA générative dans leur parcours d'achat (Fevad/Odoxa 2025).
+Point 2 : Une disponibilité instantanée. L'IA répond à l'exigence d'immédiateté. L'assureur auto américain Jerry a enregistré une hausse spectaculaire de son ROI de 400% et 4 millions de dollars d'économies en déployant une IA capable de répondre à 96% des messages entrants en moins de 30 secondes.
+Point 3 : L'antidote à l'hyper-choix. Face aux catalogues denses, 68% des consommateurs ont déjà acheté un produit sur la recommandation directe d'une IA, et 65% estiment que la technologie a rendu leur shopping moins stressant.
+Point 4 : Le sur-mesure pour qualifier la vente. Face au low-cost, dialogue hyper-personnalisé désormais exigé par 67% de la Gen Z et 66% des Millennials. L'IA s'assure en amont que l'article correspond parfaitement au besoin (taille, usage, prix), s'attaquant au gouffre financier des retours produits.
+Point 5 : L'approche hybride pour revaloriser l'humain. 74% des acheteurs valorisent encore l'interaction humaine lors du service client, et 66% lors de la phase d'achat. L'IA filtre et recentre les conseillers sur les cas complexes.
+Point 6 : Exploiter la zero-party data. Données ultra-déclaratives d'intention d'achat précieuses pour le CRM, tout en répondant aux exigences de transparence des consommateurs.
+
+5. Envers du décor et zones de risque
+- Risque 1 : Le coût de l'inférence (Token Economics). Pour les articles à faible marge, une longue conversation avec la machine génère des coûts d'inférence capables d'engloutir la marge nette.
+- Risque 2 : Gare à la déception client. 73% des acheteurs ont déjà testé un chatbot, mais à peine 57% en ressortent satisfaits (outils limités, manque d'empathie).
+- Risque 3 : Vaincre les réserves de la confiance agentique. 47% des clients font confiance à l'assistant en avant-vente, mais seulement 30% lors de l'étape du règlement. Risque d'hallucinations désastreuses.
+
+---
+PARTIE 2 : MÉTHODOLOGIE ET PÉRIMÈTRE DU BENCHMARK
+
+- Panel : 170 sites audités en France (Sélection du Top 100 des acteurs e-commerce par CA + Top 20 des 6 secteurs les plus dynamiques).
+- 38 agents conversationnels identifiés et audités.
+- Grille d'évaluation Converteo sur 100 points, répartie sur une vingtaine de critères regroupés en 4 piliers :
+  1. Accessibilité et visibilité (Axe 01 / Le Où) : Intégration front-end onsite, App mobile, WhatsApp, capacité d'hybridation avec escalade vers un humain.
+  2. Capacité transactionnelle (Axe 02 / Le Quoi) : Périmètre d'action au cœur du funnel, de l'ajout au panier jusqu'au native checkout (opérer l'achat de bout en bout).
+  3. Intelligence métier et data (Axe 03 / Le Comment) : Conseils personnalisés, comparaison de références, connexion à la donnée chaude (stocks, promotions temps réel).
+  4. Maturité en IA générative (Axe 04 / Le Moteur) : Transparence de l'assistant, multimodalité (analyse de photos envoyées par le client).
+- Barème : Prime à l'intelligence, valorisation de la donnée chaude, fluidité transactionnelle, maturité technologique, pénalités sur les frictions (géoblocage US, relégation sur une landing page isolée).
+
+---
+PARTIE 3 : NOS GRANDS ENSEIGNEMENTS
+
+1. Les 5 enseignements majeurs :
+  - 1. Un marché encore timide : À peine 26% des acteurs du Top 100 e-commerce français (et 22% sur les 170 marques auditées) ont aujourd'hui déployé un assistant IA. Pourtant, 82% exploitent déjà l'IA générative dans leurs process, et 40% des acheteurs plébiscitent les bots comme canal SAV.
+  - 2. Mode, Beauté et Maison/Brico font la course en tête : Portés par un besoin d'accompagnement fort (routines soins, déco, essayage) et des paniers moyens absorbant l'inférence.
+  - 3. Un gouffre technologique béant : Des scores de 12 à 83/100. Moyenne de 46/100, médiane de 50/100. Seuls 10% des marques dépassent la barre symbolique des 50/100. L'élite distance nettement les retardataires.
+  - 4. L'offre SaaS dominée par un duopole : 66% des acteurs passent par des éditeurs SaaS (dont 56% captés par iAdvize et Dialog). iAdvize et Dialog équipent 37% du panel global. Deux philosophies : iAdvize mise sur l'hybridation homme-machine (héritage 2010), Dialog sur le 100% IA générative sans humain (né en 2023). 44% font le choix de solutions propriétaires (Amazon, Carrefour) pour garder le contrôle et préparer le commerce agentique.
+  - 5. L'autonomie transactionnelle au point mort ("plafond de verre transactionnel") : Aucun assistant du panel ne permet à ce jour de finaliser l'acte d'achat de bout en bout. À peine plus d'un tiers (35%) permettent l'ajout au panier. 79% des assistants se limitent à rediriger vers des liens ou fiches produits.
+
+2. Maturité par secteur (Scoring moyen sur 100, absence d'agent = 0) :
+  - Beauté / Santé (24 marques auditées) : 18/100
+  - Maison / Jardin & Brico (23 marques auditées) : 13/100
+  - Mode (31 marques auditées) : 13/100
+  - Tech & Électroménager (20 marques auditées) : 10/100
+  - Jeux / Jouets (20 marques auditées) : 3/100
+  - Culture (21 marques auditées) : 1/100
+
+3. Scores moyens par pilier d'évaluation :
+  - Accessibilité et visibilité : 62/100
+  - Intelligence métier et data : 48/100
+  - Maturité en IA générative : 33/100
+  - Capacité transactionnelle : 25/100 (le point mort)
+  - 42% des assistants proposent l'escalade vers un conseiller humain (crucial car 69% des acheteurs privilégient l'humain face à des problèmes complexes).
+
+4. Focus Sephora & ManoMano :
+  - Sephora : Visibilité 92/100, Intelligence métier 84/100, IA générative 67/100, Transaction 27/100. Score global 80/100.
+  - ManoMano : Visibilité 100/100, Intelligence métier 100/100, IA générative 67/100, Transaction 27/100. Score global 76/100.
+  - Même chez les champions, la transaction reste bridée.
+
+5. Enjeu de la confiance et transparence :
+  - 71% des consommateurs s'inquiètent de l'usage de leurs données personnelles.
+  - 57% émettent des réserves sur la neutralité commerciale des agents.
+  - Mais plus de 60% accordent leur confiance si l'agent cite clairement ses sources.
+  - Aujourd'hui, 60% des assistants sourcent leurs réponses, laissant 40% d'opacité.
+
+---
+PARTIE 4 : 8 CAS D'ÉTUDES INSPIRANTS
+
+1. Amazon - "Rufus" (Déployé fév. 2024 aux USA, beta en France) - Score Top 10 (71/100) :
+   - +60% de chances supplémentaires de passer au panier pour les utilisateurs assistés.
+   - Les + : Intelligence métier ultra-travaillée, catalogue complet, pose les bases du commerce agentique.
+   - Les - : Déploiement bridé en France (beta), absence d'hybridation humaine et d'omnicanalité.
+
+2. Zalando - "Assistant Zalando" (Avril 2023, propulsé par OpenAI) - Score : 73/100 :
+   - Véritable rôle de personal shopper.
+   - Les + : Expertise mode, fluidité, pré-transactionnel solide.
+   - Les - : Connexion obligatoire à un compte Zalando, redirection systématique vers une landing page dédiée qui casse la navigation.
+
+3. Sephora - "AI Beauty Chat" (Début 2026 aux USA) - Score : 80/100 :
+   - Leader du benchmark sur l'expertise métier.
+   - Les + : Intelligence métier exceptionnelle, conseils beauté personnalisés, omniprésence.
+   - Les - : Déploiement réservé au marché américain (version FR beaucoup moins avancée).
+
+4. Carrefour - "Hopla" (Juin 2023, propulsé par Google Gemini) - Score : 83/100 :
+   - Commis de courses intelligent, recettes, paniers sur-mesure selon budget ou contraintes alimentaires.
+   - Les + : Richesse de conseil ultra-facilitatrice, déployé sur App, Web Mobile et Desktop.
+   - Les - : Ne permet pas d'appliquer un code promo ni de finaliser le paiement in-chat, pure-player sans escalade humaine.
+
+5. Delsey - "Assistant Delsey" (Éditeur : Dialog) - Score : 71/100 :
+   - Greffé au cœur des fiches produits, suggestion de valises adaptées aux normes des compagnies aériennes, mise au panier intégrée.
+   - Les + : Solution resserrée et pertinente pour la bagagerie.
+   - Les - : Limites strictes sur requêtes complexes, intégration visuelle discrète.
+
+6. Oh My Cream! - "Assistant Oh My Cream!" - Score : 73/100 :
+   - Spécialiste clean beauty, routines soin/maquillage sur-mesure selon budget et type de peau.
+   - Les + : Multimodal (analyse d'une photo du visage de l'utilisatrice), forte personnalisation.
+   - Les - : Lenteurs et plantages sur requêtes complexes, affichage tableau perfectible.
+
+7. Brunello Cucinelli - "Plateforme Pageless" :
+   - Expérience sans pages fixes, le site s'auto-construit en temps réel via l'IA selon le profil et les requêtes.
+   - Les + : Solution ultra-design pionnière.
+   - Les - : Réassemblage dynamique de 30 modules alourdissant le temps de chargement, réponses parfois génériques.
+
+8. Autres scores notables du benchmark :
+   - Carrefour Hopla : 83/100
+   - Sephora : 80/100
+   - Blissim : 76/100
+   - ManoMano : 76/100
+   - Boulanger : 74/100
+   - Rouge Gorge : 74/100
+   - Zalando : 73/100
+   - Oh My Cream! : 73/100
+   - Amazon Rufus : 71/100
+   - Delsey : 71/100
+   - aime : 71/100
+
+---
+PARTIE 5 : NOS CONSEILS & LE FUTUR DU COMMERCE AGENTIQUE
+
+1. Concepts clés :
+   - Assistant IA vs Agent IA : L'assistant guide l'avant-vente ; l'agent autonome exécute des transactions complètes.
+   - Fatigue décisionnelle : Paralysie cognitive face à l'hyper-choix des catalogues.
+   - GEO (Generative Engine Optimization) : Structuration de la donnée produit pour être recommandée par les LLMs.
+   - Hybridation : Filtre IA de 1er niveau avec escalade vers un conseiller humain pour les cas complexes.
+   - Inférence & Token Economics : Coût de calcul de l'IA par requête vs marge nette générée.
+   - UCP (Universal Commerce Protocol de Google) : Protocole ouvert connectant catalogues et paiements directement aux grands LLMs.
+   - Zero-Party Data : Données intentionnelles transmises consciemment par le client lors du dialogue.
+
+2. Le point de bascule : l'Universal Commerce Protocol (UCP) de Google
+   - Dévoilé par Google en janvier 2026.
+   - Uniformise l'accès aux catalogues en temps réel, la gestion des paniers multi-articles et les systèmes de paiement sécurisés.
+   - Permet à l'IA d'exécuter une transaction de bout en bout directement dans l'interface (AI Mode de Google Search, Gemini app).
+   - Bascule B2C vers B2MC (Business to Machine Customer) : L'assistant sur site deviendra une interface de validation (prix, stocks, retours) pour nourrir les algorithmes externes.
+
+---
+CONTACTS & AUTEURS CONVERTEO :
+- Thibauld Vian Deguille : Principal Digital, Data & IA (tv@converteo.com)
+- Pauline Guillaume : Consultante Media (pauline.guillaume@converteo.com)
+- Converteo : Cabinet de conseil de 450+ consultants et experts Data, IA et Agentique, accompagnant plus de 200 acteurs majeurs (Paris, New York, Toronto, Madrid).
